@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #401905;
+    color:antiquewhite;
+}
+
+.options{
+    background-color: #401905;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: 500;
+    color: antiquewhite;
+}
+
+.options-2:hover{
+color: #1a0a02;
+font-weight: 800;
+}
+
+.start{
+    background-color: #c79f64;
+    color: antiquewhite;
+    font-size: medium;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.texto {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
